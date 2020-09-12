@@ -1,3 +1,5 @@
 # monitoring-tool
 Monitor Server resources and uptime 
-Built with Ruby 
+Monitoring scripts : Ruby
+Dashboard: Bootsrap
+Web App: Rails 6
